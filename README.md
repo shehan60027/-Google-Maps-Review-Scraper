@@ -11,10 +11,4 @@ This project uses Selenium to scrape reviews from multiple Google Maps places ba
   - fake_useragent
   - tqdm
 
-## Setup
-
-1. **Install the required libraries:**
-
-   ```bash
-   pip install selenium fake_useragent tqdm
 
